@@ -8,7 +8,7 @@ wechat:
   appSecret: b5e7900c098f627304842cb7a0eb4a5c
 
   ## 对方的扫码id 注意，冒号后面有一个空格，冒号是英文的
-  toUser: ovrKK5tAlAGnoFozECBWX8zsBa3Y
+  toUser: ovrKK5hT9OZj0i1n3V38JTi2954Q
   ##消息的id
   templateId: M__kbP8E9pOoqf_U9D5UnojqEG_jsz3gwpmeNTyjcKc
 
@@ -24,7 +24,7 @@ infor:
   ## 恋爱日期  格式如2022-01-20
   loveDate: 2022-01-20
   ## 生日
-  birthday: 2002-04-15
+  birthday: 1997-03-07
 
 ## 申请的天行api参数值
 tianApi: 20bde1698c272d9c20ee6f9539953b8e
