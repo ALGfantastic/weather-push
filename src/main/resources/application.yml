@@ -10,7 +10,7 @@ wechat:
   ## 对方的扫码id 注意，冒号后面有一个空格，冒号是英文的
   toUser: ovrKK5tAlAGnoFozECBWX8zsBa3Y
   ##消息的id
-  templateId: XoUq-nqT-vG_Io1MewCpVU3i2hutSN4QlBVXWwR6Ano
+  templateId: M__kbP8E9pOoqf_U9D5UnojqEG_jsz3gwpmeNTyjcKc
 
 
 ## 天气
@@ -24,7 +24,8 @@ infor:
   ## 恋爱日期  格式如2022-01-20
   loveDate: 2022-01-20
   ## 生日
-  birthday: 2022-04-15
+  birthday: 2002-04-15
 
 ## 申请的天行api参数值
 tianApi: 20bde1698c272d9c20ee6f9539953b8e
+ 
