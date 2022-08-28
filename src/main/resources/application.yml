@@ -4,27 +4,27 @@ wechat:
   wxTemplateUrl: https://api.weixin.qq.com/cgi-bin/message/template/send?access_token=
 
   ## 申请的测试公众号 appId 和 appSecret 注意，冒号后面有一个空格，冒号是英文的
-  appId:
-  appSecret:
+  appId: wx0d9821225d54aaa0
+  appSecret: b5e7900c098f627304842cb7a0eb4a5c
 
   ## 对方的扫码id 注意，冒号后面有一个空格，冒号是英文的
-  toUser:
+  toUser: ovrKK5tAlAGnoFozECBWX8zsBa3Y
   ##消息的id
-  templateId:
+  templateId: XoUq-nqT-vG_Io1MewCpVU3i2hutSN4QlBVXWwR6Ano
 
 
 ## 天气
 weather:
   url: https://autodev.openspeech.cn/csp/api/v2.1/weather?openId=aiuicus&clientType=android&sign=android&city=
   ## 对方的地区如：北京 注意，冒号后面有一个空格，冒号是英文的
-  region: 北京
+  region: 新蔡县
 
 
 infor:
   ## 恋爱日期  格式如2022-01-20
   loveDate: 2022-01-20
   ## 生日
-  birthday: 2022-01-20
+  birthday: 2022-04-15
 
 ## 申请的天行api参数值
-tianApi:
+tianApi: 20bde1698c272d9c20ee6f9539953b8e
